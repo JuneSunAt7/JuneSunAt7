@@ -1,14 +1,38 @@
 
-<div id="header" align="center">
+<div id="header">
  
-  # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="100px"/>Hi, my friends! 
-  <img src="https://media.giphy.com/media/kZociPWkA9V59qGlXX/giphy.gif" width="200"/>
-  <h2>Welcome to the world of my code secrets! Here you will find my unmatched creations, created with love and passion for every line of code. Come learn about my bold experiments, innovative projects and unexpected discoveries in the field of programming. Together we will build the future of technology , one commit after another!</h2>
-    <img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/61b6f5e9-ac69-4d87-abae-cbe12c34104e" width="50"/> <img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/172cb265-ffbd-4c16-8d8b-c1591f781b7e" width="70"/><img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/ae3defac-ba20-4a61-aba2-ccbc30a35f89" width="50"/>
-<img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/68652e01-4e3b-4d4d-bda5-9dfac46688ca" width="50"/><img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/91919f21-cd35-487b-b71a-2a0ef51e8969" width="40"/><img src="https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/ec025fe5-99fd-42e2-9cc1-367220f5e41c" width="40"/>
+  # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="70px"/>Hi, my friends! 
+  # I'm DevOps engineer from Russia
+  <div id="contacts" allign=center>
+ <a href="telegram-url">
+  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/bled_grechka"/>
+ </a>
+  <a href="telegram-url">
+  <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="https://vk.com/id226968875"/>
+ </a>
+  </div>
 
+### About me:
+-     I'm currently write power C++ tools
+-     I have experience developing cloud applications in Go
+-     Like pentest and cybersecurity
 
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  title="github" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="golang" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="kubernetes" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="opencv" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="pycharm" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="qt" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" title="redhat" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="vs" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" title="gcc" width=40 height=40/>&nbsp;
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuneSunAt7&theme=aura_dark)
 </div>
 
 
