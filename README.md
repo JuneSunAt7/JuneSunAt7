@@ -4,16 +4,16 @@
   # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="70px"/>Hi, my friends! 
   # I'm DevOps engineer from Russia
   <div id="contacts" allign=center>
- <a href="telegram-url">
+ <a href="https://t.me/bled_grechka">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/bled_grechka"/>
  </a>
-  <a href="telegram-url">
+  <a href="https://vk.com/id226968875">
   <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="https://vk.com/id226968875"/>
  </a>
   </div>
 
 ### About me:
--     I'm currently write power C++ tools
+-     I'm currently developing tool for managment libraries for C++ projects 
 -     I have experience developing cloud applications in Go
 -     Like pentest and cybersecurity
 
