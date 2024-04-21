@@ -33,6 +33,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" title="gcc" width=40 height=40/>&nbsp;
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuneSunAt7&theme=aura_dark)
+ ![skills](https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/8d0b2757-139d-444a-a35c-f88fe5bc5c1d)
+
 </div>
 
 
