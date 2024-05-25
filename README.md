@@ -2,7 +2,7 @@
 <div id="header">
  
   # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="70px"/>Hi, my friends! 
-  # I'm DevOps engineer from Russia
+  # I'm SecDevOps engineer from Russia
   <div id="contacts" allign=center>
  <a href="https://t.me/bled_grechka">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/bled_grechka"/>
