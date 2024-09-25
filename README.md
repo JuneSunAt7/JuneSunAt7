@@ -13,7 +13,7 @@
   </div>
 
 ### About me:
--     I'm currently developing tool for managment libraries for C++ projects 
+-     I'm currently developing terminal tool for works and security with filesystem 
 -     I have experience developing cloud applications in Go
 -     Like pentest and cybersecurity
 
