@@ -13,7 +13,7 @@
   </div>
 
 ### About me:
--     I'm currently developing terminal tool for works and security with filesystem 
+-     I'm currently developing a proxy tool for windows
 -     I have experience developing cloud applications in Go
 -     Like pentest and cybersecurity
 
