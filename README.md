@@ -1,8 +1,8 @@
 
 <div id="header">
  
-  # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="70px"/>Hi, my friends! 
-  # I'm SecDevOps engineer from Russia
+  # <img src="https://media.giphy.com/media/cj8phHyzXoeRGmfTMD/giphy.gif" width="70px"/>Hi! 
+  # I'm developer from Russia
   <div id="contacts" allign=center>
  <a href="https://t.me/bled_grechka">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/bled_grechka"/>
@@ -13,7 +13,7 @@
   </div>
 
 ### About me:
--     I'm currently developing a proxy tool for windows
+-     I can create and develop network apps, system tools, CLI tools, neural networks, telegram & discord bots, parsers, API, webpages with interactive elems, etc...
 -     I have experience developing cloud applications in Go
 -     Like pentest and cybersecurity
 
