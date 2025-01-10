@@ -13,9 +13,9 @@
   </div>
 
 ### About me:
--     I can create and develop network apps, system tools, CLI tools, neural networks, telegram & discord bots, parsers, API, webpages with interactive elems, etc...
--     I have experience developing cloud applications in Go
--     Like pentest and cybersecurity
+I can create and develop network apps, system tools, CLI tools, neural networks, telegram & discord bots, parsers, API, webpages with interactive elems, etc...
+ Have experience developing cloud applications in Golang.
+ Like pentest and cybersecurity.
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" width=40 height=40/>&nbsp;
