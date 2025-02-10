@@ -13,7 +13,7 @@
   </div>
 
 ### About me:
-I can create and develop network apps, system tools, CLI tools, neural networks, telegram & discord bots, parsers, API, webpages with interactive elems, etc...
+I can create and develop network apps, system tools, CLI tools, neural networks, telegram & discord bots, parsers, API, webpages with interactive elems, neural networks, apps based to AI, etc...
  Have experience developing cloud applications in Golang.
  Like pentest and cybersecurity.
 
@@ -31,7 +31,6 @@ I can create and develop network apps, system tools, CLI tools, neural networks,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="vs" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" title="gcc" width=40 height=40/>&nbsp;
-
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuneSunAt7&theme=aura_dark)
  ![skills](https://github.com/JuneSunAt7/JuneSunAt7/assets/63651740/8d0b2757-139d-444a-a35c-f88fe5bc5c1d)
 
